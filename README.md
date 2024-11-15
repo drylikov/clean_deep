@@ -4,10 +4,6 @@ Removes empty _objects_, _arrays_, empty _strings_, _null_ and _undefined_ value
 
 As of version 3.0.0, _clean-deep_ traverses arrays as well as objects.
 
-## Status
-
-[![npm version][npm-image]][npm-url] [![build status][workflow-image]][workflow-url]
-
 ## Installation
 
 Install the package via `npm`:
