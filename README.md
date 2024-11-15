@@ -1,4 +1,4 @@
-# clean-deep
+# Clean deep.
 
 Removes empty _objects_, _arrays_, empty _strings_, _null_ and _undefined_ values from objects. Does not alter the original object.
 
@@ -13,7 +13,7 @@ As of version 3.0.0, _clean-deep_ traverses arrays as well as objects.
 Install the package via `npm`:
 
 ```
-$ npm install clean-deep --save
+$ npm install clean_deep --save
 ```
 
 ## Usage
@@ -67,12 +67,3 @@ $ npm test
 ```sh
 npm version [<newversion> | major | minor | patch] -m "Release %s"
 ```
-
-## License
-
-MIT
-
-[npm-image]: https://img.shields.io/npm/v/clean-deep.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/clean-deep
-[workflow-image]: https://github.com/nunofgs/clean-deep/workflows/Node%20CI/badge.svg
-[workflow-url]: https://github.com/nunofgs/clean-deep/actions
