@@ -38,7 +38,7 @@ _(Object)_: Returns the cleansed object.
 ### Example
 
 ```javascript
-const cleanDeep = require('clean-deep');
+const cleanDeep = require('clean_deep');
 const object = {
   bar: {},
   baz: null,
